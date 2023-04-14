@@ -1,0 +1,2 @@
+client: 'mongodb://localhost:27017'
+db: 'kimtoan'
